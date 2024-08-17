@@ -43,7 +43,7 @@ A RESTful API managing mongo DB
     "multer": "^1.4.5-lts.1",
     "nodemailer": "^6.9.14"
 
-#.env file for adding :
+# .env file for adding :
                 PORT = 4011
                 MONGO_URI = "mongodb+srv://rohitmetakar3112:bl1JDTKODKob3ICE@cluster0.iyzpdih.mongodb.net/video_data?retryWrites=true&w=majority&appName=Cluster0"
                 JWT_SECRET=your_jwt_secret
