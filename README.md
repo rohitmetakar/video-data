@@ -1,5 +1,5 @@
 # video-upload
-A RESTful API for managing mongo DB
+A RESTful API managing mongo DB
 # API :
   1. POST - http://localhost:4011/api/auth/userReg
       {
